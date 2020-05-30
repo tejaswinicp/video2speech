@@ -37,9 +37,7 @@ Samples will appear under `../results/samples/`
 ## Use the model to predict and generate samples
 python predict.py --weight_path <path_to_weights>
 python gen_samples.py --respath '../pretrained_results'
-```
 
-```
 Samples will appear under `../pretrained_results/samples/`
 
 
